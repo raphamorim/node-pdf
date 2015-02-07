@@ -1,0 +1,23 @@
+{
+  "name": "node-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raphamorim/node-pdf.git"
+  },
+  "author": "Raphael Amorim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphamorim/node-pdf/issues"
+  },
+  "homepage": "https://github.com/raphamorim/node-pdf",
+  "dependencies": {
+    "express": "~4.0.0",
+    "unirest": "^0.4.0"
+  }
+}
